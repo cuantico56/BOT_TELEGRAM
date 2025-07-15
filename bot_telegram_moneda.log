@@ -1,0 +1,773 @@
+2025-07-10 14:52:56,291 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 14:52:56,292 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 14:52:56,292 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 14:52:57,096 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 14:52:57,097 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 14:52:57,099 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 14:52:57,100 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 14:52:57,752 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getMe "HTTP/1.1 200 OK"
+2025-07-10 14:52:57,909 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-10 14:52:57,912 - INFO - base.py - Scheduler started
+2025-07-10 14:52:57,913 - INFO - _application.py - Application started
+2025-07-10 14:53:08,361 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:53:18,507 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:53:28,657 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:53:38,797 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:53:48,939 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:53:59,081 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:54:09,228 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:54:19,373 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:54:29,529 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:54:39,726 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:54:49,871 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:55:00,016 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:55:10,164 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:55:20,326 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:55:30,470 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:55:40,614 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:55:50,759 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:56:00,914 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:56:11,064 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:56:16,630 - INFO - _client.py - HTTP Request: POST https://api.telegram.org/bot7978709045:AAGiFdxn3h-smYTAPerQm0E4uaZNOjiHpAM/getUpdates "HTTP/1.1 200 OK"
+2025-07-10 14:56:16,631 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 14:56:16,632 - INFO - base.py - Scheduler has been shut down
+2025-07-10 14:56:16,633 - INFO - _application.py - Application.stop() complete
+2025-07-10 14:56:24,656 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 14:56:24,657 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 14:56:24,658 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 14:56:25,102 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 14:56:25,102 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 14:56:25,103 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 14:56:25,103 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 14:56:25,895 - INFO - base.py - Scheduler started
+2025-07-10 14:56:25,896 - INFO - _application.py - Application started
+2025-07-10 14:57:53,953 - INFO - main.py - Mensaje de eco de 1434885751: 'Hola'
+2025-07-10 14:59:11,942 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 14:59:11,943 - INFO - base.py - Scheduler has been shut down
+2025-07-10 14:59:11,943 - INFO - _application.py - Application.stop() complete
+2025-07-10 14:59:19,579 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 14:59:19,579 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 14:59:19,580 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 14:59:20,016 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 14:59:20,017 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 14:59:20,018 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 14:59:20,018 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 14:59:21,101 - INFO - base.py - Scheduler started
+2025-07-10 14:59:21,101 - INFO - _application.py - Application started
+2025-07-10 14:59:38,524 - INFO - main.py - Mensaje de eco de 1434885751: 'hola quetal'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 15:08:46,669 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 15:08:46,670 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 15:08:46,670 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 15:08:47,212 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 15:08:47,212 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 15:08:47,212 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 15:08:47,213 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 15:08:48,032 - INFO - base.py - Scheduler started
+2025-07-10 15:08:48,033 - INFO - _application.py - Application started
+2025-07-10 15:09:03,013 - INFO - main.py - Comando /start recibido de 1434885751usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 15:09:44,299 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 15:09:44,300 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 15:09:44,301 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 15:09:44,883 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 15:09:44,884 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 15:09:44,884 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 15:09:44,884 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 15:09:45,528 - INFO - base.py - Scheduler started
+2025-07-10 15:09:45,529 - INFO - _application.py - Application started
+2025-07-10 15:09:59,994 - INFO - main.py - Comando /start recibido de 1434885751usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 15:10:28,268 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 15:10:28,269 - INFO - base.py - Scheduler has been shut down
+2025-07-10 15:10:28,270 - INFO - _application.py - Application.stop() complete
+2025-07-10 15:10:59,375 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 15:10:59,375 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 15:10:59,376 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 15:10:59,917 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 15:10:59,918 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 15:10:59,918 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 15:10:59,919 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 15:11:00,666 - INFO - base.py - Scheduler started
+2025-07-10 15:11:00,666 - INFO - _application.py - Application started
+2025-07-10 15:11:25,719 - INFO - main.py - Comando /start recibido de 1434885751usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 15:13:56,414 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 15:13:56,415 - INFO - base.py - Scheduler has been shut down
+2025-07-10 15:13:56,416 - INFO - _application.py - Application.stop() complete
+2025-07-10 15:14:05,028 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 15:14:05,029 - INFO - main.py - Usuarios cargados: 6
+2025-07-10 15:14:05,030 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 15:14:05,547 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 15:14:05,548 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 15:14:05,548 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 15:14:05,549 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 15:14:06,352 - INFO - base.py - Scheduler started
+2025-07-10 15:14:06,352 - INFO - _application.py - Application started
+2025-07-10 15:14:49,319 - INFO - main.py - Comando /start recibido de 1434885751 usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 16:25:19,020 - INFO - main.py - Comando /start recibido de 679098227 usuario: User(first_name='Jemel', id=679098227, is_bot=False, language_code='es', last_name='Davalillo', username='JDavalillo')
+2025-07-10 16:25:19,022 - INFO - main.py - Usuarios guardados: 7
+2025-07-10 16:25:19,023 - ERROR - _application.py - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_application.py", line 1309, in process_update
+    await coroutine
+  File "c:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\main.py", line 76, in start_command
+    await registrar_usuario(update)
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\main.py", line 70, in registrar_usuario
+    logging.info(f"Nuevo usuario registrado: {chat_id}"+" usuario: "+update.message.from_user)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: can only concatenate str (not "User") to str
+2025-07-10 16:25:27,415 - INFO - main.py - Comando /start recibido de 679098227 usuario: User(first_name='Jemel', id=679098227, is_bot=False, language_code='es', last_name='Davalillo', username='JDavalillo')
+2025-07-10 16:30:16,521 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 16:30:16,525 - INFO - base.py - Scheduler has been shut down
+2025-07-10 16:30:16,526 - INFO - _application.py - Application.stop() complete
+2025-07-10 16:30:24,589 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 16:30:24,590 - INFO - main.py - Usuarios cargados: 7
+2025-07-10 16:30:24,591 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 16:30:25,065 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 16:30:25,067 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 16:30:25,067 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 16:30:25,068 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 16:30:25,903 - INFO - base.py - Scheduler started
+2025-07-10 16:30:25,904 - INFO - _application.py - Application started
+2025-07-10 16:43:11,511 - INFO - main.py - Mensaje de eco de 1434885751: 'aja'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 16:58:00,999 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 16:58:01,000 - INFO - base.py - Scheduler has been shut down
+2025-07-10 16:58:01,001 - INFO - _application.py - Application.stop() complete
+2025-07-10 16:58:10,380 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 16:58:10,381 - INFO - main.py - Usuarios cargados: 7
+2025-07-10 16:58:10,381 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 16:58:10,876 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 16:58:10,877 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 16:58:10,877 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 16:58:10,877 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 16:58:11,507 - INFO - base.py - Scheduler started
+2025-07-10 16:58:11,508 - INFO - _application.py - Application started
+2025-07-10 16:58:29,643 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 16:58:29,652 - INFO - base.py - Scheduler has been shut down
+2025-07-10 16:58:29,654 - INFO - _application.py - Application.stop() complete
+2025-07-10 16:59:19,437 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 16:59:19,437 - INFO - main.py - Usuarios cargados: 7
+2025-07-10 16:59:19,438 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 16:59:19,916 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 16:59:19,917 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 16:59:19,917 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 16:59:19,918 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 16:59:20,592 - INFO - base.py - Scheduler started
+2025-07-10 16:59:20,593 - INFO - _application.py - Application started
+2025-07-10 16:59:29,254 - INFO - main.py - Mensaje de eco de 1434885751: 'Miau'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 17:13:35,920 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-10 17:13:35,921 - INFO - base.py - Scheduler has been shut down
+2025-07-10 17:13:35,922 - INFO - _application.py - Application.stop() complete
+2025-07-10 17:28:43,576 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-10 17:28:43,576 - INFO - main.py - Usuarios cargados: 7
+2025-07-10 17:28:43,577 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-10 17:28:44,016 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-10 17:28:44,017 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-10 17:28:44,017 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-10 17:28:44,017 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-10 17:28:44,754 - INFO - base.py - Scheduler started
+2025-07-10 17:28:44,754 - INFO - _application.py - Application started
+2025-07-10 17:28:45,467 - INFO - main.py - Mensaje de eco de 1434885751: 'saludos'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 17:28:54,509 - INFO - main.py - Mensaje de eco de 1434885751: 'aja'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-10 17:38:38,741 - INFO - main.py - Mensaje de eco de 1434885751: 'Sleep'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-10 17:38:45,265 - INFO - main.py - Comando /start recibido de 1434885751 usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-10 18:26:52,518 - INFO - main.py - Mensaje de eco de 1434885751: 'Uji'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-10 20:32:24,679 - INFO - main.py - Mensaje de eco de 1434885751: 'Hi'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-10 22:14:09,089 - INFO - main.py - Mensaje de eco de 1434885751: '😘'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 06:18:02,568 - INFO - main.py - Mensaje de eco de 1434885751: '😁'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 07:14:02,215 - INFO - main.py - Mensaje de eco de 1434885751: '❤️'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 07:14:46,902 - INFO - main.py - Mensaje de eco de 1434885751: 'Mmm'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 07:27:44,799 - INFO - main.py - Mensaje de eco de 1434885751: '😘'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 08:09:46,505 - INFO - main.py - Mensaje de eco de 1434885751: 'Fffhh'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 09:23:38,905 - INFO - main.py - Mensaje de eco de 1434885751: '😕'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-11 10:30:43,530 - INFO - main.py - Mensaje de eco de 1434885751: 'ffh'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-11 13:15:56,634 - INFO - main.py - Mensaje de eco de 1434885751: '😂'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 14:28:19,749 - INFO - main.py - Mensaje de eco de 1434885751: 'f'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-11 15:02:44,710 - INFO - main.py - Mensaje de eco de 1434885751: 'clock'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-11 18:28:37,145 - INFO - main.py - Mensaje de eco de 1434885751: '😘'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-11 22:57:54,664 - INFO - main.py - Mensaje de eco de 1434885751: '😄'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 09:23:49,930 - INFO - main.py - Mensaje de eco de 1434885751: 'Z'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 09:24:09,531 - INFO - main.py - Comando /publicarbcv recibido de {update.message.chat_id} Usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556'). Texto: '{update.message.text}'
+2025-07-12 09:24:09,532 - INFO - main.py - Iniciando tarea de envío de contenido TXT a todos los usuarios.
+2025-07-12 09:24:09,533 - INFO - main.py - Ruta del archivo de moneda esperada: C:\Users\scastillo\output\TAREA_BACK\MONEDAS\Archivos\Moneda_12-07-2025.txt
+2025-07-12 09:24:09,534 - INFO - main.py - Contenido del archivo TXT leído (primeros 50 chars): '115,32790000 USD'...
+2025-07-12 09:24:10,110 - INFO - main.py - Enviado TXT como texto a 7682284673
+2025-07-12 09:24:10,525 - INFO - main.py - Enviado TXT como texto a 254871265
+2025-07-12 09:24:10,927 - INFO - main.py - Enviado TXT como texto a 815630122
+2025-07-12 09:24:11,319 - INFO - main.py - Enviado TXT como texto a 679098227
+2025-07-12 09:24:11,716 - INFO - main.py - Enviado TXT como texto a 100693653
+2025-07-12 09:24:12,110 - INFO - main.py - Enviado TXT como texto a 1434885751
+2025-07-12 09:24:12,506 - INFO - main.py - Enviado TXT como texto a 1690955006
+2025-07-12 09:24:12,613 - INFO - main.py - El texto es exactamente '/publicarbcv'. Procesando comando.
+2025-07-12 11:47:22,116 - INFO - main.py - Mensaje de eco de 1434885751: '😘'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 15:37:19,933 - INFO - main.py - Mensaje de eco de 1434885751: '😘'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 16:13:53,630 - INFO - main.py - Mensaje de eco de 1434885751: '😁'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 16:56:50,972 - INFO - main.py - Mensaje de eco de 1434885751: '😁'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 19:33:22,441 - INFO - main.py - Mensaje de eco de 1434885751: '😂'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 19:33:39,258 - INFO - main.py - Mensaje de eco de 1434885751: 'Hhhh'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-12 21:29:01,254 - INFO - main.py - Mensaje de eco de 1434885751: '😁'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 09:31:58,716 - INFO - main.py - Mensaje de eco de 1434885751: 'Ffhh'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 11:40:26,157 - INFO - main.py - Mensaje de eco de 1434885751: '😘'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 11:40:32,905 - INFO - main.py - Mensaje de eco de 1434885751: 'Hola'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 12:17:21,739 - INFO - main.py - Mensaje de eco de 1434885751: 'Ffff'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 15:49:46,278 - INFO - main.py - Mensaje de eco de 1434885751: 'Miau'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 17:22:01,287 - INFO - main.py - Mensaje de eco de 1434885751: 'G'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 17:39:54,887 - INFO - main.py - Mensaje de eco de 1434885751: 'Miau'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-13 20:11:57,126 - INFO - main.py - Mensaje de eco de 1434885751: '😁'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-14 07:32:35,849 - INFO - main.py - Mensaje de eco de 1434885751: '😁'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-14 09:43:29,998 - INFO - main.py - Mensaje de eco de 1434885751: 'h'usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:03:11,214 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-14 12:03:11,217 - INFO - base.py - Scheduler has been shut down
+2025-07-14 12:03:11,218 - INFO - _application.py - Application.stop() complete
+2025-07-14 12:03:13,990 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:03:13,991 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:03:13,991 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:03:14,793 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:03:14,793 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:03:14,794 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:03:14,794 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:03:15,619 - INFO - base.py - Scheduler started
+2025-07-14 12:03:15,619 - INFO - _application.py - Application started
+2025-07-14 12:03:23,578 - WARNING - main.py - No se encontró el archivo de audio: audios\Ya_los_vendieron.mp3
+2025-07-14 12:03:23,579 - INFO - main.py - Mensaje de eco de 1434885751: 'vendieron' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:05:40,431 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-14 12:05:40,432 - INFO - base.py - Scheduler has been shut down
+2025-07-14 12:05:40,433 - INFO - _application.py - Application.stop() complete
+2025-07-14 12:05:41,740 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:05:41,741 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:05:41,742 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:05:42,164 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:05:42,165 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:05:42,166 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:05:42,166 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:05:42,967 - INFO - base.py - Scheduler started
+2025-07-14 12:05:42,968 - INFO - _application.py - Application started
+2025-07-14 12:05:49,804 - WARNING - main.py - No se encontró el archivo de audio: audios\Ya_los_vendieron.mp3
+2025-07-14 12:05:49,805 - INFO - main.py - Mensaje de eco de 1434885751: 'vendieron' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:13:08,994 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:13:08,995 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:13:08,995 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:13:09,431 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:13:09,431 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:13:09,432 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:13:09,432 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:13:10,266 - INFO - base.py - Scheduler started
+2025-07-14 12:13:10,267 - INFO - _application.py - Application started
+2025-07-14 12:13:26,316 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1434885751 por mensaje 'vendieron'
+2025-07-14 12:13:26,317 - INFO - main.py - Mensaje de eco de 1434885751: 'vendieron' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:13:55,816 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1434885751 por mensaje 'ya los vendieron?'
+2025-07-14 12:13:55,816 - INFO - main.py - Mensaje de eco de 1434885751: 'ya los vendieron?' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:21:19,671 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-14 12:21:19,672 - INFO - base.py - Scheduler has been shut down
+2025-07-14 12:21:19,672 - INFO - _application.py - Application.stop() complete
+2025-07-14 12:21:21,838 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:21:21,839 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:21:21,839 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:21:22,406 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:21:22,407 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:21:22,407 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:21:22,407 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:21:23,218 - INFO - base.py - Scheduler started
+2025-07-14 12:21:23,218 - INFO - _application.py - Application started
+2025-07-14 12:21:29,784 - INFO - main.py - Mensaje de eco de 1434885751: 'hola' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:21:43,750 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1434885751 por mensaje 'estan vendiendo dolares?'
+2025-07-14 12:21:43,750 - INFO - main.py - Mensaje de eco de 1434885751: 'estan vendiendo dolares?' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:27:12,010 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1690955006 por mensaje 'Estás vendiendo dólares?'
+2025-07-14 12:27:12,010 - INFO - main.py - Mensaje de eco de 1690955006: 'Estás vendiendo dólares?' usuario: User(first_name='Cindy', id=1690955006, is_bot=False, language_code='es', last_name='Azuaje', username='Chindyrellah')
+2025-07-14 12:28:15,616 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 7682284673 por mensaje 'Vendieron los dólares?'
+2025-07-14 12:28:15,616 - INFO - main.py - Mensaje de eco de 7682284673: 'Vendieron los dólares?' usuario: User(first_name='Leop', id=7682284673, is_bot=False, language_code='es', last_name='Silva')
+2025-07-14 12:33:02,043 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:33:02,044 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:33:02,044 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:33:02,474 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:33:02,474 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:33:02,475 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:33:02,475 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:33:03,274 - INFO - base.py - Scheduler started
+2025-07-14 12:33:03,275 - INFO - _application.py - Application started
+2025-07-14 12:43:27,823 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:43:27,823 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:43:27,825 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:43:28,241 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:43:28,242 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:43:28,243 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:43:28,243 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:43:29,055 - INFO - base.py - Scheduler started
+2025-07-14 12:43:29,056 - INFO - _application.py - Application started
+2025-07-14 12:47:27,304 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-14 12:47:27,306 - INFO - base.py - Scheduler has been shut down
+2025-07-14 12:47:27,306 - INFO - _application.py - Application.stop() complete
+2025-07-14 12:47:28,610 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:47:28,611 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:47:28,612 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:47:29,055 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:47:29,056 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:47:29,056 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:47:29,056 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:47:29,754 - INFO - base.py - Scheduler started
+2025-07-14 12:47:29,754 - INFO - _application.py - Application started
+2025-07-14 12:49:30,849 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-14 12:49:30,850 - INFO - base.py - Scheduler has been shut down
+2025-07-14 12:49:30,851 - INFO - _application.py - Application.stop() complete
+2025-07-14 12:49:39,203 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:49:39,203 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:49:39,204 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:49:39,636 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:49:39,636 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:49:39,636 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:49:39,637 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:49:40,442 - INFO - base.py - Scheduler started
+2025-07-14 12:49:40,443 - INFO - _application.py - Application started
+2025-07-14 12:49:54,705 - INFO - main.py - Mensaje de eco de 1434885751: 'alo' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:50:29,334 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-14 12:50:29,335 - INFO - base.py - Scheduler has been shut down
+2025-07-14 12:50:29,336 - INFO - _application.py - Application.stop() complete
+2025-07-14 12:50:30,566 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 12:50:30,567 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 12:50:30,568 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 12:50:30,999 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 12:50:31,000 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 12:50:31,001 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 12:50:31,001 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 12:50:31,659 - INFO - base.py - Scheduler started
+2025-07-14 12:50:31,660 - INFO - _application.py - Application started
+2025-07-14 12:50:41,773 - INFO - main.py - Mensaje de eco de 1434885751: 'fffh' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:50:46,735 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1434885751 por mensaje 'vendieron'
+2025-07-14 12:50:46,736 - INFO - main.py - Mensaje de eco de 1434885751: 'vendieron' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 12:51:10,137 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 7682284673 por mensaje 'Vendieron los dólares?'
+2025-07-14 12:51:10,611 - INFO - main.py - Notificación enviada a 1434885751 sobre el mensaje de 7682284673
+2025-07-14 12:51:10,611 - INFO - main.py - Mensaje de eco de 7682284673: 'Vendieron los dólares?' usuario: User(first_name='Leop', id=7682284673, is_bot=False, language_code='es', last_name='Silva')
+2025-07-14 12:51:34,387 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 7682284673 por mensaje 'Vendieron los dólares?'
+2025-07-14 12:51:34,656 - INFO - main.py - Notificación enviada a 1434885751 sobre el mensaje de 7682284673
+2025-07-14 12:51:34,657 - INFO - main.py - Mensaje de eco de 7682284673: 'Vendieron los dólares?' usuario: User(first_name='Leop', id=7682284673, is_bot=False, language_code='es', last_name='Silva')
+2025-07-14 13:17:21,501 - INFO - main.py - Mensaje de eco de 1434885751: '😘' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-14 13:36:26,253 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 254871265 por mensaje 'Los vendieron?'
+2025-07-14 13:36:26,528 - INFO - main.py - Notificación enviada a 1434885751 sobre el mensaje de 254871265
+2025-07-14 13:36:26,528 - INFO - main.py - Mensaje de eco de 254871265: 'Los vendieron?' usuario: User(first_name='Raquelita', id=254871265, is_bot=False, language_code='es', last_name='Piña', username='Raquepina')
+2025-07-14 13:50:45,907 - INFO - main.py - Mensaje de eco de 1434885751: 'Ffhhh' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-14 14:36:20,749 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-14 14:36:20,749 - INFO - main.py - Usuarios cargados: 7
+2025-07-14 14:36:20,750 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-14 14:36:21,199 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-14 14:36:21,200 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-14 14:36:21,201 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-14 14:36:21,201 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-14 14:36:21,952 - INFO - base.py - Scheduler started
+2025-07-14 14:36:21,953 - INFO - _application.py - Application started
+2025-07-14 14:37:20,473 - INFO - main.py - Mensaje de eco de 1434885751: 'huwei' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 14:37:28,894 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1434885751 por mensaje 'los vendieron?'
+2025-07-14 14:37:28,896 - INFO - main.py - Mensaje de eco de 1434885751: 'los vendieron?' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 14:37:40,479 - INFO - main.py - Comando /start recibido de 1434885751 usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-14 14:50:58,806 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 815630122 por mensaje 'Ya los vendieron?'
+2025-07-14 14:50:59,071 - INFO - main.py - Notificación enviada a 1434885751 sobre el mensaje de 815630122
+2025-07-14 14:50:59,072 - INFO - main.py - Mensaje de eco de 815630122: 'Ya los vendieron?' usuario: User(first_name='D4N', id=815630122, is_bot=False, language_code='es', username='D4N001')
+2025-07-14 19:07:41,389 - INFO - main.py - Mensaje de eco de 1434885751: 'Chucutona' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-14 20:11:23,264 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 100693653 por mensaje 'Los vendieron?'
+2025-07-14 20:11:23,539 - INFO - main.py - Notificación enviada a 1434885751 sobre el mensaje de 100693653
+2025-07-14 20:11:23,540 - INFO - main.py - Mensaje de eco de 100693653: 'Los vendieron?' usuario: User(first_name='Angel', id=100693653, is_bot=False, language_code='es', last_name='Márquez', username='Angelhmg23')
+2025-07-15 07:29:22,653 - INFO - main.py - Mensaje de eco de 1434885751: '😘' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 08:24:51,960 - INFO - main.py - Mensaje de eco de 1434885751: '😮‍💨' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='en', last_name='Cast', username='cuantico556')
+2025-07-15 10:09:00,243 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-15 10:09:00,259 - INFO - base.py - Scheduler has been shut down
+2025-07-15 10:09:00,261 - INFO - _application.py - Application.stop() complete
+2025-07-15 10:09:01,797 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:09:01,798 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:09:01,798 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:09:04,742 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:09:04,743 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:09:04,743 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:09:09,579 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:09:09,580 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:09:09,580 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:09:18,438 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:09:18,439 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:09:18,440 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:09:35,374 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:09:35,375 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:09:35,375 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:10:08,362 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:10:08,362 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:10:08,369 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:03,328 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:03,330 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:03,330 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:07,221 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:07,223 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:07,223 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:10,982 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:10,997 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:11,019 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:15,407 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:15,443 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:15,470 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:20,828 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:20,830 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:20,830 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:24,474 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:24,474 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:24,474 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:29,647 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:29,647 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:29,647 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:38,508 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:38,509 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:38,510 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:11:55,324 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:11:55,325 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:11:55,325 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:12:28,496 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:12:28,497 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:12:28,497 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:13:34,180 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:13:34,180 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:13:34,181 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:14:47,339 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:14:47,340 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:14:47,341 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:14:47,739 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 10:14:47,740 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 10:14:47,740 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 10:14:47,740 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 10:14:48,447 - INFO - base.py - Scheduler started
+2025-07-15 10:14:48,448 - INFO - _application.py - Application started
+2025-07-15 10:14:49,319 - INFO - main.py - Mensaje de eco de 1434885751: '😘' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:14:49,588 - INFO - main.py - Mensaje de eco de 1434885751: '😘' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:14:49,864 - INFO - main.py - Mensaje de eco de 1434885751: '😘' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:15:23,079 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:15:23,080 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:15:23,081 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:15:25,875 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:15:25,875 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:15:25,876 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:15:30,667 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:15:30,668 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:15:30,668 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:15:39,463 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:15:39,464 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:15:39,465 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:15:56,314 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:15:56,315 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:15:56,315 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:16:29,159 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:16:29,159 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:16:29,160 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:16:29,553 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 10:16:29,553 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 10:16:29,554 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 10:16:29,555 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 10:16:30,245 - INFO - base.py - Scheduler started
+2025-07-15 10:16:30,245 - INFO - _application.py - Application started
+2025-07-15 10:16:34,406 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:16:34,407 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:16:34,408 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:16:34,796 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 10:16:34,797 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 10:16:34,797 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 10:16:34,797 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 10:16:35,476 - INFO - base.py - Scheduler started
+2025-07-15 10:16:35,477 - INFO - _application.py - Application started
+2025-07-15 10:16:42,565 - INFO - main.py - Mensaje de eco de 1434885751: '☺️' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:22:22,471 - ERROR - _updater.py - Error while calling `get_updates` one more time to mark all fetched updates as read: %s. Suppressing error to ensure graceful shutdown. When polling for updates is restarted, updates may be fetched again. Please adjust timeouts via `ApplicationBuilder` or the parameter `get_updates_request` of `Bot`.
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    raise exc
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_backends\auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_backends\anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Users\scastillo\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 273, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\scastillo\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_updater.py", line 399, in _get_updates_cleanup
+    await self.bot.get_updates(
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 4610, in get_updates
+    await self._post(
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 304, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 297, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2025-07-15 10:22:22,487 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-15 10:22:22,489 - INFO - base.py - Scheduler has been shut down
+2025-07-15 10:22:22,495 - INFO - _application.py - Application.stop() complete
+2025-07-15 10:22:57,887 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:22:57,887 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:22:57,887 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:22:58,892 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 10:22:58,892 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 10:22:58,892 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 10:22:58,892 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 10:23:01,817 - ERROR - networkloop.py - Network Retry Loop (Bootstrap Initialize Application): Failed run number 0 of 0. Aborting.
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    raise exc
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_async\connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_backends\auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_backends\anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Users\scastillo\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 273, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\scastillo\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_utils\networkloop.py", line 93, in do_action
+    return await action_cb()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_application.py", line 487, in initialize
+    await self.bot.initialize()
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 315, in initialize
+    await super().initialize()
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 844, in initialize
+    await self.get_me()
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 1980, in get_me
+    return await super().get_me(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 975, in get_me
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 304, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_httpxrequest.py", line 297, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2025-07-15 10:23:04,625 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:23:04,629 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 10:23:04,639 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:23:06,002 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 10:23:06,050 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 10:23:06,119 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 10:23:06,149 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 10:23:09,725 - INFO - base.py - Scheduler started
+2025-07-15 10:23:09,733 - INFO - _application.py - Application started
+2025-07-15 10:23:10,557 - INFO - main.py - Mensaje de eco de 1434885751: '😁' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:52:13,769 - INFO - main.py - Mensaje de eco de 1434885751: '😁' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:52:25,370 - ERROR - _application.py - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_application.py", line 1309, in process_update
+    await coroutine
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\main.py", line 120, in echo_message
+    await update.message.reply_audio(audio=open(audio_path, 'rb'))
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_message.py", line 2328, in reply_audio
+    return await self.get_bot().send_audio(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 2538, in send_audio
+    return await super().send_audio(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 1649, in send_audio
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 629, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 809, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\request\_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: File must be non-empty
+2025-07-15 10:53:34,087 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-15 10:53:34,088 - INFO - base.py - Scheduler has been shut down
+2025-07-15 10:53:34,089 - INFO - _application.py - Application.stop() complete
+2025-07-15 10:53:35,593 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 10:53:35,595 - INFO - main.py - No se encontró el archivo de usuarios 'C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\usuarios_bot.json'. Iniciando con lista vacía.
+2025-07-15 10:53:35,595 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 10:53:36,023 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 10:53:36,024 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 10:53:36,024 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 10:53:36,025 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 10:53:36,708 - INFO - base.py - Scheduler started
+2025-07-15 10:53:36,709 - INFO - _application.py - Application started
+2025-07-15 10:53:45,304 - INFO - main.py - Usuarios guardados: 1
+2025-07-15 10:53:45,306 - INFO - main.py - Nuevo usuario registrado: 1434885751 usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 10:53:45,307 - ERROR - _application.py - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_application.py", line 1309, in process_update
+    await coroutine
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\.venv\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\main.py", line 98, in echo_message
+    await registrar_usuario(update,context)
+  File "C:\Users\scastillo\Desktop\BOT_TELEGRAM\BOT_TELEGRAM\main.py", line 78, in registrar_usuario
+    f"**Nombre:** {update.get('full_name', 'N/A')}\n"
+                   ^^^^^^^^^^
+AttributeError: 'Update' object has no attribute 'get'
+2025-07-15 10:53:52,077 - INFO - main.py - Mensaje de eco de 1434885751: 'Aja' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 11:01:57,165 - INFO - _application.py - Application is stopping. This might take a moment.
+2025-07-15 11:01:57,167 - INFO - base.py - Scheduler has been shut down
+2025-07-15 11:01:57,167 - INFO - _application.py - Application.stop() complete
+2025-07-15 11:01:58,385 - INFO - main.py - ***********SE INICIA PROGRAMA MAIN**********
+2025-07-15 11:01:58,386 - INFO - main.py - Usuarios cargados: 7
+2025-07-15 11:01:58,386 - INFO - main.py - ***********CARGADOS USUARIOS REGISTRADOS**********
+2025-07-15 11:01:58,815 - INFO - main.py - ***********CARGADO TOKEN BOT**********
+2025-07-15 11:01:58,816 - INFO - main.py - ***********AÑADIDOS MANEJADOSRES DE COMANDOS**********
+2025-07-15 11:01:58,816 - INFO - main.py - ***********MANEJADOR DE MENSAJE**********
+2025-07-15 11:01:58,816 - INFO - main.py - Bot de Telegram iniciado. Esperando mensajes...
+2025-07-15 11:01:59,492 - INFO - base.py - Scheduler started
+2025-07-15 11:01:59,493 - INFO - _application.py - Application started
+2025-07-15 11:02:17,085 - INFO - main.py - Audio 'Ya_los_vendieron.mp3' enviado a 1434885751 por mensaje 'Vendieron'
+2025-07-15 11:02:17,086 - INFO - main.py - Mensaje de eco de 1434885751: 'Vendieron' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 11:09:58,828 - INFO - main.py - Comando /start recibido de 1434885751 usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 11:10:11,114 - INFO - main.py - Mensaje de eco de 1434885751: 'Hola' usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556')
+2025-07-15 11:14:02,010 - INFO - main.py - Comando /publicarbcv recibido de {update.message.chat_id} Usuario: User(first_name='Sam', id=1434885751, is_bot=False, language_code='es', last_name='Cast', username='cuantico556'). Texto: '{update.message.text}'
+2025-07-15 11:14:02,011 - INFO - main.py - Iniciando tarea de envío de contenido TXT a todos los usuarios.
+2025-07-15 11:14:02,012 - INFO - main.py - Ruta del archivo de moneda esperada: C:\Users\scastillo\output\TAREA_BACK\MONEDAS\Archivos\Moneda_15-07-2025.txt
+2025-07-15 11:14:02,014 - INFO - main.py - Contenido del archivo TXT leído (primeros 50 chars): '115,84460000 USD
+135,34587996 EUR'...
+2025-07-15 11:14:02,641 - INFO - main.py - Enviado TXT como texto a 7682284673
+2025-07-15 11:14:03,089 - INFO - main.py - Enviado TXT como texto a 254871265
+2025-07-15 11:14:03,507 - INFO - main.py - Enviado TXT como texto a 815630122
+2025-07-15 11:14:03,945 - INFO - main.py - Enviado TXT como texto a 679098227
+2025-07-15 11:14:04,365 - INFO - main.py - Enviado TXT como texto a 100693653
+2025-07-15 11:14:04,789 - INFO - main.py - Enviado TXT como texto a 1434885751
+2025-07-15 11:14:05,185 - INFO - main.py - Enviado TXT como texto a 1690955006
+2025-07-15 11:14:05,657 - INFO - main.py - El texto es exactamente '/publicarbcv'. Procesando comando.
