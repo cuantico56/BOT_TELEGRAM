@@ -1,0 +1,4 @@
+# Ignorar archivo de usuarios y logs
+usuarios_bot.json
+bot_telegram_moneda.log
+copia_main.py
